@@ -1,0 +1,79 @@
+================================================================================
+                    SYSTEM CCB - DADOS ESTATÍSTICOS
+                    COMPLETO POR ESTADO E REGIÃO
+================================================================================
+
+DATA: 29 de agosto de 2026
+FONTE: Relatório Digital CCB (versão 7.04.01), Wikipedia, IBGE
+
+================================================================================
+CASAS DE ORAÇÃO NO BRASIL (2026)
+================================================================================
+
+TOTAL GERAL: 21.863 casas de oração
+
+POR ESTADO:
+==========
+São Paulo:                    5.470
+Minas Gerais:                 3.179
+Bahia:                        2.330
+Paraná:                       1.907
+Goiás:                          996
+Rio de Janeiro:                 646
+Mato Grosso:                    674
+Rondônia:                       634
+Pará:                           625
+Pernambuco:                     673
+Ceará:                          578
+Santa Catarina:                 518
+Maranhão:                       399
+Mato Grosso do Sul:             486
+Distrito Federal:               120
+Espírito Santo:                233
+Alagoas:                        285
+Rio Grande do Sul:              338
+Sergipe:                        196
+Tocantins:                      318
+Piauí:                          370
+Paraíba:                        222
+Rio Grande do Norte:            166
+Amazonas:                       177
+Acre:                           177
+Amapá:                           74
+Roraima:                         72
+
+================================================================================
+BATISMOS POR ESTADO (2024 vs 2025)
+================================================================================
+
+TOTAL 2024:   107.747
+TOTAL 2025:    98.312
+VARIAÇÃO:      -8,76%
+
+MAIORES CRESCIMENTOS: Piauí (+43,94%), Acre (+34,05%), RJ (+16,39%)
+MAIORES QUEDAS: Ceará (-20,02%), Tocantins (-22,34%), DF (-22,41%)
+
+================================================================================
+MINISTÉRIO (2026)
+================================================================================
+
+Anciães:                        5.656
+Diáconos:                       7.842
+Cooperadores do Ofício Min.:   21.665
+Cooperadores de Jovens e Menores: 12.584
+TOTAL:                         47.747
+
+================================================================================
+EXPANSÃO INTERNACIONAL
+================================================================================
+
+PAÍSES: 85+ (2026)
+TEMPLOS NO EXTERIOR: ~20.000
+
+PRINCIPAIS PAÍSES: Portugal, Itália, Inglaterra, França, Espanha,
+Alemanha, Suíça, EUA, Canadá, Argentina, Paraguai, Bolívia,
+Angola, Moçambique, Japão.
+
+================================================================================
+                    FIM DOS DADOS ESTATÍSTICOS
+================================================================================

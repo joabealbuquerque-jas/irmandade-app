@@ -1,0 +1,80 @@
+================================================================================
+                    SYSTEM CCB - ÍNDICE DE ARQUIVOS
+                    CONGREGAÇÃO CRISTÃ NO BRASIL
+================================================================================
+
+DATA: 29 de agosto de 2026
+LOCAL: C:\\Users\\joabe\\OneDrive\\Área de Trabalho\\Youtube\\System CCB\\
+
+================================================================================
+LISTA DE ARQUIVOS (15 ARQUIVOS - ~160 KB)
+================================================================================
+
+[PASTA RAIZ]
+├── 00-PAINEL-INTELIGENCIA.html  → Painel visual interativo (abrir no navegador)
+├── 00-INDICE.txt                 → Este arquivo (índice geral)
+├── 01-DOSSIE-PRINCIPAL.txt      → Dossê completo (13 seções)
+├── 02-ANALISE-INTELIGENCIA.txt  → Análise SWOT, PESTEL, riscos, cenários
+├── 03-CRONOLOGIA-DETALHADA.txt   → Linha do tempo 1866-2026
+├── 04-ATOR-PRINCIPAL.txt         → Biografia de Luigi Francescon
+├── 05-DADOS-ESTATISTICOS.txt     → Números por estado, batismos, ministério
+├── 06-DOUTRINA-CRENÇAS.txt       → 12 Pontos de Doutrina detalhados
+├── 07-CONTROVERSIAS-CRITICAS.txt → Críticas e controvérsias (OSINT)
+├── 08-EXTRAS-DOCUMENTARIO.txt    → Informações complementares profundas
+├── 09-INFORMACOES-COMPLEMENTARES.txt → Pesquisa profunda adicional
+├── 10-CEREBRO-DA-CCB.txt         → O CÉREBRO DA CCB (perfil psicossocial)
+├── 11-A-MENTE-DOS-MEMBROS.txt    → A MENTE DOS MEMBROS (reformistas)
+├── 12-IDENTIDADE-VISUAL.txt      → IDENTIDADE VISUAL E PRESENÇA DIGITAL
+├── 13-PESQUISA-REDES-SOCIAIS.txt → PESQUISA: REDES SOCIAIS E APPS EVANGÉLICOS
+└── MANUAL-IRMANDADE.md           → MANUAL DE CRIAÇÃO DO APP "IRMANDADE"
+
+================================================================================
+ESTRUTURA DO PROJETO (CRIADA)
+================================================================================
+
+[backend/]
+├── package.json                  → Dependências do backend
+├── tsconfig.json                 → Configuração TypeScript
+└── src/
+    └── server.ts                 → Servidor Express
+
+[mobile/]
+└── package.json                  → Dependências do mobile
+
+[docs/]
+└── estrutura-projeto.md          → Estrutura de pastas
+
+[ARQUIVOS RAIZ]
+├── .gitignore                    → Arquivos ignorados
+├── docker-compose.yml            → Docker (PostgreSQL + Redis)
+└── README.md                     → Documentação do projeto
+
+================================================================================
+PRÓXIMO PASSO
+================================================================================
+
+O arquivo MANUAL-IRMANDADE.md é o CÉREBRO do projeto.
+Toda alteração no app DEVE ser registrada lá.
+
+Próximos passos:
+1. Criar modelos do banco de dados
+2. Criar rotas da API
+3. Criar telas do app
+4. Implementar autenticação
+5. Criar feed de posts
+
+================================================================================
+CLASSIFICAÇÃO FINAL
+================================================================================
+
+Este dossê foi montado como se fosse uma investigação de inteligência
+(FBI, ABIN, CIA, MI6), usando apenas fontes públicas (OSINT).
+
+Todas as informações são de fontes abertas e públicas.
+Nenhuma informação confidencial ou privilegiada foi utilizada.
+
+O objetivo é meramente informativo e educacional.
+
+================================================================================
+                    FIM DO ÍNDICE
+================================================================================

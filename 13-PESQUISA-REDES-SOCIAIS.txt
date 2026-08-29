@@ -1,0 +1,326 @@
+================================================================================
+                    SYSTEM CCB - PESQUISA: REDES SOCIAIS E APPS EVANGÉLICOS
+                    BASE PARA CRIAÇÃO DO APP "IRMANDADE CCB"
+================================================================================
+
+DATA: 29 de agosto de 2026
+CLASSIFICAÇÃO: Análise de Fontes Abertas (OSINT)
+OBJETIVO: Pesquisar o universo de redes sociais e apps evangélicos para
+           criar o app "Irmandade CCB" com base nas melhores práticas
+
+================================================================================
+                         RESUMO EXECUTIVO
+================================================================================
+
+Esta pesquisa revela o PANORAMA COMPLETO das redes sociais evangélicas,
+os MECANISMOS de engajamento (dopamina, algoritmos), e as OPORTUNIDADES
+para criar o app "Irmandade CCB" — uma rede social exclusiva para membros
+da Congregação Cristã no Brasil.
+
+DESCOBERTAS PRINCIPAIS:
+- GODBY: rede social cristã com IA integrada (2026)
+- Gospel Time: rede social 100% cristã
+- Os Escolhidos: rede social cristã
+- Grow: app social cristão com feed de fotos, GIFs, memes, louvores
+- FaithSocial: plataforma de conteúdo multimídia cristã
+- Dopamina: cada like, comentário, notificação libera dopamina
+- Algoritmos: Instagram prioriza Reels, TikTok prioriza watch time
+- Oportunidade: CCB não tem rede social própria (lacuna de mercado)
+
+================================================================================
+1. REDES SOCIAIS EVANGÉLICAS EXISTENTES
+================================================================================
+
+1.1 GODBY (2026)
+- Rede social cristã com IA integrada
+- Criada por Isaque Neri (Brasília)
+- Funcionalidades: pesquisas bíblicas, estudos, dúvidas
+- IA auxilia usuários em conteúdo espiritual
+- Objetivo: conectar pessoas pela fé, propósito e valores bíblicos
+
+1.2 GOSPEL TIME
+- Rede social 100% cristã
+- App para download
+- Foco em conteúdo gospel
+- Comunidade cristã
+
+1.3 OS ESCOLHIDOS
+- Rede social cristã
+- Conecta "povo de Deus"
+- Compartilhar fé, experiências
+- Ambiente "seguro"
+
+1.4 GROW
+- App social cristão
+- Feed de fotos, GIFs, memes, louvores
+- Imagens de versículos bíblicos
+- Compartilhamento com amigos
+- Foco em fé e encorajamento
+
+1.5 FAITHSOCIAL
+- Plataforma de mídia social cristã
+- Conteúdo multimídia
+- Conecta comunidade cristã mundial
+- Recursos robustos
+
+1.6 GOSPEL LOVE
+- Namoro cristão
+- Conversar com cristãos solteiros
+- Público gospel/evangélico
+- Foco em relacionamentos
+
+1.7 OUTRAS PLATAFORMAS
+- Christian Mingle (namoro)
+- Christian Connection (namoro)
+- Godinterest (microblogging)
+- JUVITOR (rede social cristã)
+- Lordsbook (Facebook cristão)
+- Socialcross (rede social cristã)
+
+================================================================================
+2. COMO FUNCIONAM AS REDES SOCIAIS (PSICOLOGIA)
+================================================================================
+
+2.1 DOPAMINA
+- Cada like libera dopamina
+- Cada comentário libera dopamina
+- Cada notificação libera dopamina
+- Dopamina = prazer + recompensa
+- Ciclo: desejo → busca → recompensa → desejo
+- Cria dependência (vício)
+
+2.2 MECANISMOS DE ENGAJAMENTO
+- Likes: validação social
+- Comentários: interação
+- Compartilhamentos: conexão
+- Notificações: urgência
+- Stories: FOMO (medo de perder)
+- Reels: entretenimento rápido
+- Feed infinito: scroll sem fim
+
+2.3 ALGORITMOS
+- Instagram: prioriza Reels, DM shares, watch time
+- TikTok: prioriza completion rate, rewatches, shares
+- Facebook: prioriza engajamento, relacionamentos
+- YouTube: prioriza watch time, CTR, sessões
+
+2.4 SINAIS DE ENGAJAMENTO (ORDEM DE IMPORTÂNCIA)
+1. Watch time (tempo de visualização)
+2. Shares (compartilhamentos)
+3. Saves (salvamentos)
+4. Comments (comentários)
+5. Likes (curtidas)
+
+================================================================================
+3. FUNCIONAMENTO DAS PRINCIPAIS REDES SOCIAIS
+================================================================================
+
+3.1 INSTAGRAM
+- Feed: amigos + interesses
+- Stories: atualizações próximas
+- Reels: descoberta + entretenimento
+- Explore: descoberta pura
+- DM: mensagens privadas
+- Algoritmo: 4 sistemas separados (Feed, Stories, Reels, Explore)
+
+3.2 TIKTOK
+- For You Page (FYP): feed personalizado
+- Algoritmo: interest-based (não social)
+- Watch time: sinal mais forte
+- Rewatches: sinal muito forte
+- Shares: sinal forte
+- Likes: sinal fraco
+- Qualquer um pode viralizar (não precisa de seguidores)
+
+3.3 FACEBOOK
+- Feed: amigos + grupos + páginas
+- Grupos: comunidades
+- Events: eventos
+- Marketplace: compras
+- Watch: vídeos
+- Algoritmo: relacionamento + engajamento
+
+3.4 YOUTUBE
+- Início: recomendações
+- Shorts: vídeos curtos
+- Inscrições: canais favoritos
+- Biblioteca: histórico
+- Algoritmo: watch time + CTR + sessões
+
+================================================================================
+4. OPORTUNIDADE PARA O APP "IRMANDADE CCB"
+================================================================================
+
+4.1 LACUNA DE MERCADO
+- A CCB NÃO tem rede social própria
+- Membros usam WhatsApp, Instagram, Facebook (genéricos)
+- Não há app exclusivo para a irmandade
+- Não há espaço para compartilhar fé dentro da CCB
+
+4.2 DIFERENCIAL DO "IRMANDADE CCB"
+- Exclusivo para membros da CCB
+- Identidade visual da CCB (cores, logo, tipografia)
+- Conteúdo alinhado com doutrina
+- Moderação cristã
+- Sem conteúdo "mundano"
+- Foco em edificação espiritual
+
+4.3 PÚBLICO-ALVO
+- Membros batizados da CCB
+- Familiares de membros
+- Jovens da CCB
+- Cooperadores e anciãos
+- Pessoas interessadas na CCB
+
+================================================================================
+5. FUNCIONALIDADES SUGERIDAS PARA O APP
+================================================================================
+
+5.1 PERFIL
+- Foto de perfil
+- Nome
+- Congregação
+- Cargo (ancião, diácono, cooperador, membro)
+- Data de batismo
+- Bio espiritual
+
+5.2 FEED
+- Posts de texto (reflexões, orações)
+- Posts de imagem (fotos de cultos, templos)
+- Posts de vídeo (hinos, pregações)
+- Posts de áudio (orações, louvores)
+- Stories (atualizações diárias)
+
+5.3 INTERAÇÕES
+- Like (coração)
+- Comentário
+- Compartilhar
+- Salvar
+- Oração (orar pelo post)
+
+5.4 GRUPOS
+- Por congregação
+- Por região
+- Por idade (jovens, adultos)
+- Por interesse (música, estudos, missões)
+
+5.5 MENSAGENS
+- Chat privado
+- Grupos de oração
+- Pedidos de oração
+- Aconselhamento
+
+5.6 EVENTOS
+- Cultos
+- Reuniões de jovens
+- Convenções
+- Batismos
+- Santa Ceia
+
+5.7 CONTEÚDO
+- Hinário digital
+- Bíblia online
+- Tópicos de ensinamento
+- Circulares
+- Notícias da CCB
+
+5.8 MODERAÇÃO
+- Filtro de conteúdo
+- Denúncias
+- Bloqueio
+- Diretrizes da comunidade
+- Moderadores (anciãos)
+
+================================================================================
+6. IDENTIDADE VISUAL DO APP
+================================================================================
+
+6.1 CORES
+- Branco: #FFFFFF (fundo)
+- Preto: #201E1E (texto)
+- Cinza: #CDD4DC (elementos secundários)
+- Azul escuro: #033D60 (destaques)
+
+6.2 TIPOGRAFIA
+- Serifada clássica (títulos)
+- Sem serifa (corpo de texto)
+- Fonte tradicional
+- Legibilidade prioritária
+
+6.3 LOGO
+- Logo da CCB (duas linhas + sigla)
+- Versão principal: preto sobre fundo claro
+- Variação: branco sobre fundo escuro
+
+6.4 LAYOUT
+- Limpo e minimalista
+- Sem poluição visual
+- Espaçamento generoso
+- Organização clara
+- Foco no conteúdo
+
+6.5 TOM DE VOZ
+- Formal e respeitoso
+- Sem gírias
+- Sem humor excessivo
+- Linguagem bíblica
+- Edificante
+
+================================================================================
+7. ESTRATÉGIA DE ENGAJAMENTO (SEM VÍCIO)
+================================================================================
+
+7.1 PRINCÍPIOS
+- Engajamento saudável
+- Sem manipulação
+- Sem vício
+- Foco em edificação
+- Comunidade, não competição
+
+7.2 MECANISMOS
+- Likes: validação (sem contagem pública)
+- Comentários: diálogo (sem métricas)
+- Compartilhamentos: edificação (sem viralização)
+- Orações: apoio espiritual (sem métricas)
+- Notificações: relevantes (sem spam)
+
+7.3 DIFERENCIAL
+- Sem feed infinito (limite de tempo)
+- Sem métricas públicas (sem competição)
+- Sem anúncios (sem comercialização)
+- Sem algoritmo viciante (sem manipulação)
+- Foco em qualidade (não quantidade)
+
+================================================================================
+8. CONCLUSÃO
+================================================================================
+
+O app "Irmandade CCB" tem potencial para ser a PRIMEIRA rede social
+exclusiva de uma denominação evangélica no Brasil.
+
+COMO DIFERENTES:
+- Exclusivo para membros da CCB
+- Identidade visual da CCB
+- Conteúdo alinhado com doutrina
+- Moderação cristã
+- Engajamento saudável (sem vício)
+- Foco em edificação (não entretenimento)
+
+COMO FUNCIONA:
+- Perfil com dados espirituais
+- Feed de conteúdo edificante
+- Grupos por congregação
+- Mensagens privadas
+- Eventos e cultos
+- Hinário e Bíblia digital
+
+COMO GANHA DINHEIRO:
+- Ofertas voluntárias
+- Doações
+- Sem anúncios
+- Sem assinaturas
+- Sem comercialização de dados
+
+================================================================================
+                    FIM DA PESQUISA
+================================================================================

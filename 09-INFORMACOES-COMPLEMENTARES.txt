@@ -1,0 +1,320 @@
+================================================================================
+                    SYSTEM CCB - INFORMAÇÕES COMPLEMENTARES
+                    PESQUISA PROFUNDA ADICIONAL
+================================================================================
+
+DATA: 29 de agosto de 2026
+CLASSIFICAÇÃO: Dados de Fontes Abertas (OSINT)
+
+================================================================================
+1. PROCESSOS JUDICIAIS ENVOLVENDO A CCB
+================================================================================
+
+A CCB aparece em milhares de processos judiciais no Brasil:
+
+ESCADOR: 5.736 processos encontrados
+- 3.876 no estado de São Paulo
+- 275 em outros estados
+
+JUSBRASIL: 67 processos que mencionam "Igreja Congregação Cristã No Brasil"
+- Maioria no TJSP (Tribunal de Justiça de São Paulo)
+
+TIPOS DE PROCESSOS:
+- Ações trabalhistas (ex-funcionários)
+- Ações indenizatórias (ex-membros)
+- Questões patrimoniais
+- Imóveis e terrenos
+
+CASO TJSP (INDENIZAÇÃO NEGADA):
+- A CCB foi processada por um fiel
+- Alegou que a igreja não praticou ato ilícito
+- Seguiu apenas sua doutrina e dogmas
+- O homem não entregou documento (contexto não claro)
+- Resultado: indenização negada
+
+CASO TJ/MG (PÚLPITO):
+- CCB tem direito de restringir acesso de fiéis ao púlpito
+- Judiciário mineiro rejeitou ação
+- Prerrogativa de denominação religiosa
+
+================================================================================
+2. ESTATUTO SOCIAL COMPLETO
+================================================================================
+
+NOME OFICIAL: Congregação Cristã no Brasil
+FUNDADA: 1910
+REGISTRO: 30 de março de 1936 (como "Congregação Cristã do Brasil")
+ALTERAÇÃO: 1962 (mudou "do" para "no")
+
+ARTIGOS PRINCIPAIS:
+
+Art. 1: Comunidade religiosa fundamentada na doutrina apostólica
+Art. 2: Sem fins lucrativos
+Art. 3: Número ilimitado de membros
+Art. 4: Número ilimitado de casas de oração e administrações
+Art. 5: Sede onde se instalarem as administrações
+Art. 6: Número ilimitado de casas de oração e administrações
+Art. 22: Conselho de Anciães Mais Antigos (instância suprema)
+Art. 23: Administração (Presidente, Tesoureiro, Secretário)
+Art. 24: Serviços de culto presididos por Anciães ou Cooperadores
+Art. 30: Conselho Fiscal
+
+PRINCÍPIOS:
+- Não há hierarquia (em teoria)
+- Sem remuneração para líderes
+- Decisões por consenso
+- Unidade espiritual acima de estrutura
+
+================================================================================
+3. COBERTURA MIDIÁTICA HISTÓRICA
+================================================================================
+
+A CCB evita mídia, mas apareceu em reportagens:
+
+BBC BRASIL (2022):
+- "A igreja evangélica sem pastores midiáticos que 'exporta' músicos"
+- Destaque: 2,29 milhões de fiéis, 5,4% dos evangélicos
+- Sem pastores midiáticos
+- Exporta músicos para o mundo
+
+JORNAL OPÇÃO:
+- "As divisões do pentecostalismo no Brasil"
+- CCB como pentecostalismo clássico (1910-1950)
+
+REDES SOCIAIS:
+- YouTube: documentários de ex-membros
+- Instagram: perfis de ex-membros e defensores
+- TikTok: vídeos curtos sobre experiências
+- Reddit: discussões em fóruns
+
+DOCUMENTÁRIOS NO YOUTUBE:
+- "The HIDDEN History of the CCB: Why They Call Themselves 'The Grace'"
+- "The truth about the Christian Congregation in Brazil"
+- "Ex-membros que foram libertos da CCB" (Caio Modesto)
+- "Os motivos da CCB ser uma seita" (Augustus Nicodemus)
+
+================================================================================
+4. DADOS DEMOGRÁFICOS E SOCIOLÓGICOS
+================================================================================
+
+IBGE (CENSO):
+- 1990: 1.635.984 membros
+- 2000: ~2.000.000 (estimado)
+- 2010: ~2.200.000 (estimado)
+- 2022: 2.289.634 (Censo)
+
+ESTIMATIVA NÃO OFICIAL: ~5.000.000
+
+DISTRIBUIÇÃO GEOGRÁFICA:
+- Sudeste: 43,6%
+- Nordeste: 23,9%
+- Sul: 12,6%
+- Centro-Oeste: 10,4%
+- Norte: 8,5%
+
+ESTADOS COM MAIS TEMPLOS:
+- São Paulo: 5.470
+- Minas Gerais: 3.179
+- Bahia: 2.330
+
+QUESTÃO DE GÊNERO:
+- Até 1970: mulheres podiam ensinar nas Escolas Dominicais
+- Hoje: não podem presidir cultos
+- Hoje: não podem ser anciãos ou diáconos
+- Hoje: não podem falar em cultos (em muitas congregações)
+
+ARTIGOS ACADÊMICOS SOBRE GÊNERO:
+- "Paradigmas do feminino na Congregação Cristã no Brasil"
+- "Mulheres da CCB em Carapicuíba: Ritos e Cotidiano"
+- "Representações e relações de gênero nos grupos pentecostais"
+
+================================================================================
+5. A IGREJA E OS IMIGRANTES ITALIANOS
+================================================================================
+
+CONTEXTO HISTÓRICO:
+- 1880-1920: onda de imigração italiana para o Brasil
+- São Paulo e Paraná: principais destinos
+- Colônias italianas: café, indústria, agricultura
+
+A CCB NASCE NESTE CONTEXTO:
+- Francescon prega para imigrantes italianos
+- Primeiros cultos em italiano
+- Primeiros membros: italianos e descendentes
+- Expansão segue colônias italianas
+
+COLÔNIAS IMPORTANTES:
+- Santo Antônio da Platina (PR): primeira casa de oração
+- São Paulo (Brás): segunda casa de oração
+- Votorantim (SP): terceira casa de oração
+- Sorocaba, Piedade, Salto de Pirapora: expansão
+
+TRANSIÇÃO CULTURAL:
+- 1910-1920: cultos em italiano
+- 1920-1930: transição para português
+- 1930+: "brasilização" da igreja
+- Membros não-italianos aumentam
+
+================================================================================
+6. A HISTÓRIA DE ZÉ DA COSTA (VOTORANTIM)
+================================================================================
+
+PERSONAGEM: José Thomaz da Costa ("Zé da Costa")
+LOCAL: Votorantim (SP)
+ÉPOCA: 1918-1931
+
+HISTÓRIA:
+- Jogador de futebol do Sport Club Savoia
+- Trabalhava na fábrica de tecidos
+- Irmãos da CCB o convidaram para oração
+- Concordou, mas com condição: seriam sócios do clube e assistiriam ele jogar
+- Francescon e Benedito Ribeiro aceitaram
+- No vestiário, enquanto Zé da Costa se vestia, eles oraram
+- Foi seu último jogo
+- Tornou-se membro da CCB
+- 1931: ungido ancião por Francescon
+- Primeiro ancião da região de Votorantim
+
+IMPORTÂNCIA:
+- Exemplo de conversão de não-italiano
+- Simboliza transição cultural da CCB
+- História contada em livros e documentários
+
+================================================================================
+7. A SEDE DO BRÁS (DETALHADOS)
+================================================================================
+
+NOME: Casa de Oração do Brás
+LOCAL: Rua Visconde de Parnaíba, 1616 - Brás, São Paulo/SP
+CEP: 03164-300
+
+CONSTRUÇÃO:
+- 1947: deliberação para construção
+- 1948: início das obras
+- 1954: inauguração (7 de maio)
+- Coincidiu com 400 anos de São Paulo
+
+ARQUITETURA:
+- Projeto: Igor Sresnewsky
+- Área: 19.028 m²
+- 4º maior templo da capital paulista
+- Concreto armado
+
+FUNÇÕES:
+- Sede administrativa nacional
+- Local de cultos (domingos 10h e 18h30, diários 20h)
+- Sede do Conselho de Anciães Mais Antigos
+- Referência nacional e internacional
+
+HISTÓRICO:
+- 1928: personalidade jurídica
+- 1936: registro em cartório
+- 1947: deliberação para nova sede
+- 1948-1954: construção
+- 1954: inauguração
+
+================================================================================
+8. A QUESTÃO DO GÊNERO NA CCB
+================================================================================
+
+HISTÓRICO:
+- Até 1970: mulheres podiam ensinar nas Escolas Dominicais
+- 1970+: restrições aumentaram
+- Hoje: não podem presidir cultos
+
+ARGUMENTOS DA CCB:
+- I Coríntios 14:34-35 (mulheres caladas nas igrejas)
+- I Timóteo 2:12 (mulheres não ensinar nem ter domínio sobre homem)
+- Ordem bíblica, não machismo
+
+CRÍTICAS:
+- Patriarcado e machismo
+- Limitação de participação feminina
+- Exclusão de liderança
+- Véu obrigatório em algumas regiões
+
+PESQUISAS ACADÊMICAS:
+- "Paradigmas do feminino na CCB" (Metodista)
+- "Mulheres da CCB em Carapicuíba" (UNESP)
+- "Gênero e Pentecostalismo" (Mackenzie)
+
+================================================================================
+9. A CCB E A POLÍTICA
+================================================================================
+
+POSIÇÃO OFICIAL:
+- APOLÍTICA (não participa de política partidária)
+- Não apoia candidatos
+- Não forma bancada evangélica
+- Membros individuais podem votar, mas sem orientação oficial
+
+ARGUMENTOS:
+- "Não temos nada com o pentecostalismo" (Assembleia 1988)
+- Foco na pregação do evangelho
+- Separação entre igreja e estado
+
+CRÍTICAS:
+- Omissão política
+- Não combate injustiças sociais
+- Foco apenas na salvação individual
+
+COMPARAÇÃO:
+- IURD: envolvida politicamente (bancada evangélica)
+- AD: envolvida politicamente (partidos)
+- CCB: não envolvida
+
+================================================================================
+10. CURIOSIDADES ADICIONAIS
+================================================================================
+
+1. A CCB se auto-intitula "A Graça" (embora não oficialmente).
+
+2. O apelido "Igreja do Véu" surgiu do hábito das mulheres usarem véu branco.
+
+3. A CCB foi fundada 1 ANTES da Assembleia de Deus (1910 vs 1911).
+
+4. A CCB nega ser pentecostal (emborer pesquisadores classifiquem assim).
+
+5. A CCB tem ~500.000 músicos (uma das maiores redes musicais do mundo).
+
+6. A CCB tem 21.863 templos (maior número de locais de culto no Brasil).
+
+7. A CCB está em 85+ países.
+
+8. A CCB tem o 4º maior templo de São Paulo (Brás).
+
+9. A CCB NÃO cobra dízimo (é voluntário).
+
+10. A CCB NÃO tem pastores remunerados (todos são voluntários).
+
+11. A CCB NÃO tem TV, rádio ou mídia própria.
+
+12. A CCB NÃO participa de ecumenismo.
+
+13. A CCB NÃO ordena mulheres para cargos ministeriais.
+
+14. A CCB tem um app oficial ("Relatório Digital").
+
+15. A CCB tem site oficial com busca de casas de oração.
+
+================================================================================
+11. FONTES ADICIONAIS CONSULTADAS
+================================================================================
+
+• TJSP - Tribunal de Justiça de São Paulo (processos)
+• Jusbrasil - Consulta processual
+• Escavador - Processos judiciais
+• BBC Brasil - Reportagem sobre CCB
+• Jornal Opção - Pentecostalismo no Brasil
+• Instagram - Perfis de ex-membros e defensores
+• YouTube - Documentários
+• Gazeta de Votorantim - História de Zé da Costa
+• Wikipedia - História da CCB
+• Dialnet/UFPE - Artigo Yara Nogueira Monteiro
+• Academia.edu - Artigos acadêmicos
+• UNESP - Pesquisas sobre gênero
+• Mackenzie - Gênero e pentecostalismo
+
+================================================================================
+                    FIM DAS INFORMAÇÕES COMPLEMENTARES
+================================================================================

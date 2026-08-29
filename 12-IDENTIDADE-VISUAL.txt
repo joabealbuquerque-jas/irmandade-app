@@ -1,0 +1,544 @@
+================================================================================
+                    SYSTEM CCB - IDENTIDADE VISUAL E PRESENÇA DIGITAL
+                    ANÁLISE COMPLETA DA MARCA
+================================================================================
+
+DATA: 29 de agosto de 2026
+CLASSIFICAÇÃO: Análise de Fontes Abertas (OSINT)
+METODOLOGIA: Análise do Manual de Identidade Visual CCB (Rev. 04, Dez/2022),
+              site oficial, redes sociais, aplicativos e materiais digitais
+
+================================================================================
+                         RESUMO EXECUTIVO
+================================================================================
+
+A Congregação Cristã no Brasil possui uma IDENTIDADE VISUAL CLÁSSICA,
+CONSERVADORA e MINIMALISTA. Sua comunicação visual reflete os valores
+da igreja: simplicidade, modéstia, sobriedade e reverência.
+
+A marca é construída sobre:
+- Paleta de 4 cores (branco, preto, cinza, azul escuro)
+- Logotipo baseado no hinário (década de 1960)
+- Tipografia serifada clássica
+- Layout limpo e organizado
+- Ausência de elementos decorativos
+- Foco na funcionalidade
+
+A CCB não busca ser "moderna" ou "atraente". Busca ser REVERENTE.
+Não busca "agradar", mas RESPEITAR.
+Não busca "vender", mas SERVIR.
+
+================================================================================
+1. MANUAL DE IDENTIDADE VISUAL
+================================================================================
+
+DOCUMENTO: "Manual de Identidade Visual CCB nos Meios Digitais - Rev. 04"
+DATA: Dezembro de 2022
+ÓRGÃO: Administração São Paulo
+REGISTRO: Scribd (documento público)
+
+OBJETIVO DO MANUAL:
+- Padronizar a marca em todo o país
+- Definir uso correto do logotipo
+- Estabelecer paleta de cores
+- Definir tipografia
+- Criar modelos de documentos
+
+================================================================================
+2. O LOGOTIPO
+================================================================================
+
+ORIGEM:
+- Baseado no símbolo do Livro nº 4 do hinário "Hinos de Louvores e Súplicas a Deus"
+- Existe desde a década de 1960
+- Elementos foram aperfeiçoados ao longo dos anos
+
+DESCRIÇÃO:
+- Duas linhas adornam o nome da igreja
+- Formam, na parte superior, a sigla "CCB"
+- Simplicidade e delicadeza
+- Fácil reconhecimento pela irmandade
+- Principal referência gráfica da igreja
+
+VERSÕES PERMITIDAS:
+
+VERSÃO PRINCIPAL (preferencial):
+- Linhas e texto em PRETO
+- Fundo CLARO
+- Máxima legibilidade
+
+VARIAÇÃO PERMITIDA:
+- Linhas e texto em BRANCO
+- Fundo ESCURO
+- Para materiais com fundos escuros
+
+USOS NÃO PERMITIDOS:
+- Distorção do logo
+- Cores diferentes das permitidas
+- Fundos que comprometam a legibilidade
+- Uso em materiais não autorizados
+- Remoção de elementos
+
+MARGEM DE SEGURANÇA:
+- Garante integridade e clareza
+- Espaço mínimo ao redor do logo
+- Não pode ser invadido por outros elementos
+
+REDUÇÃO MÁXIMA:
+- Tamanho mínimo: 3 cm (30mm) de largura
+- Abaixo disso, leitura do nome fica comprometida
+
+================================================================================
+3. PALETA DE CORES
+================================================================================
+
+A CCB utiliza 4 cores institucionais:
+
+COR 1: BRANCO
+- RGB: 255 255 255
+- HEX: #FFFFFF
+- Significado: paz, leveza, serenidade, equilíbrio
+- Uso: fundos, espaços, limpeza visual
+
+COR 2: PRETO
+- RGB: 32 30 30
+- HEX: #201E1E
+- Significado: discrição, refinamento
+- Uso: texto, linhas do logo, elementos de destaque
+
+COR 3: CINZA PADRÃO
+- RGB: 205 212 220
+- HEX: #CDD4DC
+- Significado: cor padrão das casas de oração
+- Uso: elementos secundários, fundos alternativos
+
+COR 4: AZUL ESCURO
+- RGB: 3 61 96
+- HEX: #033D60
+- Significado: calmaria, sobriedade, conforto ótico
+- Uso: contraponto, elementos de destaque, links
+
+COMBINAÇÕES:
+- Branco + Preto: clássico, limpo, reverente
+- Branco + Cinza: suave, acolhedor
+- Branco + Azul escuro: contraste, destaque
+- NÃO há cores vibrantes ou chamativas
+
+================================================================================
+4. TIPOGRAFIA
+================================================================================
+
+TIPOGRAFIA PRINCIPAL:
+- Serifada clássica
+- Estilo tradicional
+- Legibilidade prioritária
+- Usada em títulos e destaques
+
+TIPOGRAFIA DE DOCUMENTOS:
+- Sem serifa (sans-serif)
+- Corpo de texto
+- Leitura prolongada
+- Disponível no manual
+
+CARACTERÍSTICAS:
+- Sem fontes decorativas
+- Sem fontes modernas
+- Sem fontes informais
+- Foco na clareza e reverência
+
+================================================================================
+5. MODELOS DE DOCUMENTOS
+================================================================================
+
+POWERPOINT:
+- Modelo padronizado disponível na Intranet
+- Tutorial de criação incluído
+- Fundo claro
+- Logo no canto superior
+- Texto em preto/cinza
+
+WORD:
+- Modelo padronizado disponível na Intranet
+- Tutorial de criação incluído
+- Margens definidas
+- Cabeçalho com logo
+- Formatação consistente
+
+ASSINATURA DE E-MAIL:
+- Dois modelos disponíveis na Intranet
+- Tutorial de criação incluído
+- Logo da CCB
+- Dados de contato
+- Formatação padronizada
+
+================================================================================
+6. SITE OFICIAL
+================================================================================
+
+URL: congregacaocristanobrasil.org.br
+
+LAYOUT:
+- Design limpo e minimalista
+- Fundo branco
+- Menu superior organizado
+- Ícones simples
+- Foco em funcionalidade
+
+SEÇÕES PRINCIPAIS:
+
+1. INSTITUCIONAL
+- Histórico
+- Estatuto
+- Esclarecimentos
+- Contato
+
+2. IRMANDADE
+- Circulares
+- Tópicos de ensinamento
+
+3. CULTO ON-LINE
+- Para enfermos e grupos de risco
+- Transmissão ao vivo
+- Libras disponível
+- Áudio disponível
+
+4. RELATÓRIO DIGITAL
+- Dados estatísticos
+- Aplicativo para download
+- Casas de oração
+
+5. OFERTAS
+- Contribuições voluntárias
+- Dados bancários
+
+6. PEDIR ORAÇÃO
+- Formulário de pedido
+- Contato com a igreja
+
+FUNCIONALIDADES:
+- Busca por casas de oração
+- Busca por circulares
+- Busca por tópicos
+- Download de materiais
+- Links para redes sociais
+
+DESIGN:
+- Cores: branco, cinza, azul escuro
+- Fonte: sem serifa, limpa
+- Ícones: simples, lineares
+- Espaçamento: generoso
+- Sem animações
+- Sem imagens chamativas
+
+================================================================================
+7. CANAL NO YOUTUBE
+================================================================================
+
+URL: youtube.com/congregacaocristanobrasil
+INSCRITOS: 2.33 milhões
+VÍDEOS: 1.9K+
+
+CONTEÚDO:
+- Cultos ao vivo (transmissões)
+- Cultos gravados
+- Hinos orquestrados
+- Vídeos institucionais
+- Tópicos de ensinamento
+
+DESIGN DO CANAL:
+- Banner: logo CCB + foto do Brás
+- Foto de perfil: logo CCB
+- Descrição: "Canal oficial da Congregação Cristã no Brasil"
+- Links: site oficial, redes sociais
+
+ESTILO DOS VÍDEOS:
+- Capas simples
+- Título em texto sobre fundo escuro
+- Logo CCB no canto
+- Sem thumbnails chamativas
+- Foco no conteúdo
+
+FREQUÊNCIA:
+- Transmissões diárias
+- Cultos de domingo
+- Cultos de quarta-feira
+- Eventos especiais
+
+================================================================================
+8. INSTAGRAM
+================================================================================
+
+PERFIL: @ccb_oficialbrasil
+SEGUIDORES: 38.1K
+SEGUINDO: 230
+PUBLICAÇÕES: 230+
+
+CONTEÚDO:
+- Fotos de cultos
+- Fotos de templos
+- Vídeos de hinos
+- Circulares e comunicados
+- Eventos especiais
+
+ESTILO:
+- Fotos limpas
+- Filtros suaves
+- Legendas formais
+- Hashtags: #ccb #congregacaocrista #ccbbrasil
+- Sem posts patrocinados
+- Sem stories frequentes
+
+INTERAÇÃO:
+- Comentários limitados
+- Respostas padronizadas
+- Foco em informação
+- Sem polêmicas
+
+================================================================================
+9. FACEBOOK
+================================================================================
+
+PÁGINA: Congregação Cristã no Brasil
+CURTIDAS: 2+ (página oficial pequena)
+
+CONTEÚDO:
+- Links para o site
+- Circulares
+- Eventos
+- Fotos de cultos
+
+OBSERVAÇÃO:
+- A CCB tem pouca presença no Facebook
+- A maioria das páginas são de membros (não oficiais)
+- A CCB prioriza YouTube e site oficial
+
+================================================================================
+10. APLICATIVO "RELATÓRIO DIGITAL"
+================================================================================
+
+NOME: CCB - Relatório Digital
+DISPONIBILIDADE: Android (Google Play) e iOS (App Store)
+AVALIAÇÃO: 4.7 estrelas (6.432 avaliações)
+CATEGORIA: Educação / Referência
+
+FUNCIONALIDADES:
+- Consulta a casas de oração
+- Busca por endereço
+- Horários de culto
+- Dados estatísticos
+- Circulares e tópicos
+- Notificações
+
+DESIGN:
+- Interface limpa
+- Cores institucionais
+- Navegação simples
+- Ícones padronizados
+- Login opcional
+
+OBJETIVO:
+- Centralizar informações
+- Facilitar acesso
+- Reduzir impressos
+- Modernizar comunicação
+
+================================================================================
+11. POLÍTICA DE MÍDIA E DIGITAL
+================================================================================
+
+POSICIONAMENTO OFICIAL:
+- "Não fazemos propaganda" (site oficial)
+- "Não utilizamos meios de divulgação pública"
+- "Não nos misturamos com o mundo"
+
+PRÁTICAS:
+- Site institucional (informativo)
+- YouTube (cultos online)
+- Instagram (fotos e vídeos)
+- App (relatório digital)
+- Sem TV
+- Sem rádio
+- Sem podcasts
+- Sem blogs
+- Sem TikTok oficial
+- Sem Twitter/X oficial
+
+REDES NÃO OFICIAIS:
+- Muitos perfis de membros
+- Muitos canais de hinos
+- Muitos grupos de WhatsApp
+- Muitas páginas de Facebook
+
+CONTROLE:
+- A CCB tenta controlar a marca
+- Manual de identidade visual
+- Uso restrito do logo
+- Sem autorização para uso pessoal
+
+================================================================================
+12. ANÁLISE DO PADRÃO VISUAL
+================================================================================
+
+CARACTERÍSTICAS PRINCIPAIS:
+
+1. SIMPLICIDADE
+- Poucas cores
+- Poucos elementos
+- Sem decoração
+- Foco no conteúdo
+
+2. MODESTIA
+- Sem ostentação
+- Sem luxo
+- Sem glamour
+- Sem "marketing"
+
+3. SOBRIEDADE
+- Cores sóbrias
+- Fontes tradicionais
+- Layout formal
+- Sem exageros
+
+4. REVERÊNCIA
+- Tom respeitoso
+- Linguagem formal
+- Imagens cuidadosas
+- Sem vulgaridade
+
+5. TRADIÇÃO
+- Logo clássico
+- Cores conservadoras
+- Fontes serifadas
+- Sem modernidade
+
+6. UNIFORMIDADE
+- Padrão nacional
+- Manual rígido
+- Sem variações regionais
+- Controle centralizado
+
+================================================================================
+13. O QUE A COMUNICAÇÃO VISUAL COMUNICA
+================================================================================
+
+A COMUNICAÇÃO DA CCB COMUNICA:
+
+1. "SOMOS SÉRIOS"
+- Cores escuras
+- Fontes formais
+- Sem humor
+- Sem leveza
+
+2. "SOMOS SANTOS"
+- Sem imagens provocantes
+- Sem dança
+- Sem teatro
+- Sem entretenimento
+
+3. "SOMOS UNIDOS"
+- Padrão único
+- Sem variações
+- Todos iguais
+- Ninguém se destaca
+
+4. "SOMOS DIFERENTES"
+- Não somos "mundo"
+- Não somos "moda"
+- Não somos "marketing"
+- Somos "separados"
+
+5. "SOMOS ETERNOS"
+- Logo clássico
+- Cores atemporais
+- Sem modismos
+- Sem datas
+
+================================================================================
+14. COMPARAÇÃO COM OUTRAS IGREJAS
+================================================================================
+
+ASSEMBLÉIA DE DEUS:
+- Cores mais vibrantes
+- Mais informal
+- Mais mídia
+- Mais "marketing"
+
+IGREJA UNIVERSAL:
+- Cores fortes (vermelho, dourado)
+- Muito midiática
+- Muito ostentação
+- Muito apelo
+
+IGREJA PRESBITERIANA:
+- Similar em sobriedade
+- Mais teologia
+- Mais formal
+- Menos mística
+
+CCB:
+- Única em minimalismo
+- Única em isolamento
+- Única em tradição
+- Única em controle
+
+================================================================================
+15. O QUE A MARCA CCB TRANSMITE
+================================================================================
+
+A MARCA CCB TRANSMITE:
+
+CONFIANÇA:
+- Cores sólidas
+- Layout estável
+- Sem mudanças
+- Sem erros
+
+RESPEITO:
+- Tom formal
+- Linguagem cuidadosa
+- Imagens reverentes
+- Sem vulgaridade
+
+TRADIÇÃO:
+- Logo histórico
+- Cores clássicas
+- Fontes tradicionais
+- Sem modernidade
+
+SERIEDADE:
+- Sem humor
+- Sem leveza
+- Sem informalidade
+- Sem "jovialidade"
+
+ETERNIDADE:
+- Sem datas
+- Sem modismos
+- Sem tendências
+- Sem "futuro"
+
+================================================================================
+16. CONCLUSÃO: A IDENTIDADE VISUAL DA CCB
+================================================================================
+
+A CCB não é uma marca. É uma INSTITUIÇÃO.
+
+Ela não busca ser amada. Busca ser RESPEITADA.
+Ela não busca ser popular. Busca ser REVERENCIADA.
+Ela não busca ser moderna. Busca ser ETERNA.
+
+Sua identidade visual é um REFLEXO de sua teologia:
+- Simplicidade (não há necessidade de mais)
+- Modéstia (não há ostentação)
+- Sobriedade (não há exageros)
+- Tradição (não há mudança)
+- Uniformidade (não há individualidade)
+
+A CCB não é uma marca que você "gosta".
+É uma marca que você "respeita".
+
+E é exatamente isso que ela quer.
+
+================================================================================
+                    FIM DO DOCUMENTO
+================================================================================
