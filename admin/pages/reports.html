@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Denúncias - Painel Admin</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="logo"><h1>Irmandade</h1><span>Painel Admin</span></div>
+            <nav class="nav">
+                <a href="../index.html">📊 Dashboard</a>
+                <a href="users.html">👥 Usuários</a>
+                <a href="posts.html">📝 Posts</a>
+                <a href="groups.html">👥 Grupos</a>
+                <a href="events.html">📅 Eventos</a>
+                <a href="products.html">🛍️ Produtos</a>
+                <a href="ads.html">📢 Anúncios</a>
+                <a href="reports.html" class="active">🚨 Denúncias</a>
+            </nav>
+        </aside>
+        <main class="main">
+            <header class="header"><h2>Denúncias</h2></header>
+            <section class="table-section">
+                <table class="table">
+                    <thead><tr><th>ID</th><th>Motivo</th><th>Descrição</th><th>Status</th><th>Ações</th></tr></thead>
+                    <tbody id="reports-table"><tr><td colspan="5">Carregando...</td></tr></tbody>
+                </table>
+            </section>
+        </main>
+    </div>
+    <script src="../js/app.js"></script>
+</body>
+</html>
